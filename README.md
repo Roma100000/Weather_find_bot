@@ -1,4 +1,4 @@
-# WeatherNotifierBot ☁️🌡️
+# Weather_find_bot ☁️🌡️
 
 Телеграм-бот для получения прогноза погоды и настройки уведомлений по выбранным городам.
 
@@ -44,7 +44,7 @@
 ## Как начать использовать:
 
 1. Клонируйте репозиторий:
-    `[https://github.com/Roma100000/WeatherNotifierBot.git](https://github.com/Roma100000/WeatherNotifierBot.git)`
+    `git clone https://github.com/Roma100000/Weather_find_bot`
 
 2. Установите зависимости:
    `pip install -r requirements.txt`
