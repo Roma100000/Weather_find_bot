@@ -44,10 +44,10 @@
 ## Как начать использовать:
 
 1. Клонируйте репозиторий:
-   git clone [https://github.com/Roma100000/WeatherNotifierBot.git](https://github.com/Roma100000/WeatherNotifierBot.git)
+    `[https://github.com/Roma100000/WeatherNotifierBot.git](https://github.com/Roma100000/WeatherNotifierBot.git)`
 
 2. Установите зависимости:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 3. Запустите бота и протестируйте все возможности!
 
@@ -60,5 +60,3 @@
 * Планирование задач и уведомлений (apscheduler)
 * Использование FSM для управления диалогом
 * Учет технических особенностей API для корректной работы и удобства пользователя
-
-Вот, просто скопируй и вставляй, никаких проблем с форматированием.
