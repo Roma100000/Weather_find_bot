@@ -97,7 +97,7 @@ async def time_input(message: Message, state: FSMContext):
     await state.clear()
 
 # --- Обработка кнопок назад ---
-@router.callback_query(F.data.startswith("back:choose:cities:notify_"))
+@router.callback_query(F.data.startswith("back:choose:cities:notify"))
 async def back_to_city_choose(callback: CallbackQuery):
     await callback.answer()
     
